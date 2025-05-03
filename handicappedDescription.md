@@ -1,0 +1,1 @@
+A module for extracting and manipulating HTML using XPath and BeautifulSoup. It allows converting HTML to BeautifulSoup, generating XPath from elements, and finding elements by text or links. Useful for web scraping, XPath generation, and HTML manipulation tasks.
